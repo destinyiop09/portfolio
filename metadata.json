@@ -1,0 +1,8 @@
+{
+  "name": "myportfolio",
+  "description": "A sleek portfolio website template hosted with smooth animations and responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
